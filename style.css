@@ -1,0 +1,85 @@
+*{
+    margin: 2;
+    padding: 0;
+    border-radius: 15px;
+    text-decoration: none;
+}
+/* titel pagina 1*/
+body {
+    color: rgb(253, 247, 247);
+    font: normal 16px Arial, Helvetica, sans-serif;
+    background-color: rgb(238, 236, 206);
+    margin: 0em;
+}
+a:hover{
+    color: red;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    line-height: 1.6em;
+    
+
+}
+.black-border{
+    border: 5px solid rgb(10, 10, 10);
+    margin: 20px 0;
+    text-align: center;
+    background-color: rgb(160, 185, 233);
+    color: rgb(129, 55, 2);
+    padding: 2em;
+    line-height: 1.6em;
+}
+.black-border-1{
+    border: 5px solid chocolate;
+    color: rgb(0, 89, 255);
+    font:normal 16px verdana;
+    line-height: 1.6em;
+    margin: 20px 0;
+    padding: 2em;
+    text-align: justify;
+}
+
+/*titel pagina 2 */
+#green-background{
+    background-color: rgb(231, 171, 114);
+}
+.black-border-2{
+    border: 5px solid rgb(87, 210, 30);
+    color: rgb(200, 7, 218);
+    font:normal 16px verdana;
+    line-height: 1.6em;
+    margin: auto;
+    padding: 2em;
+}
+#green-background-1{
+    background-color: rgb(176, 231, 114);
+}
+.black-border-3{
+    border: 5px solid black;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(200, 7, 218);
+    color: rgb(87, 210, 30);
+}
+.categories li{
+    list-style: none;
+}
+nav {
+    background-color: rgb(12, 11, 11);
+    width: 80%;
+    margin:auto;
+}
+nav ul{
+    padding: 10;
+    text-align: left;
+    word-spacing: 4em;
+}
+nav li{
+    display: inline;
+    color: white;
+}
+nav a{
+    color: white;
+    word-spacing: 20em;
+}
